@@ -1,4 +1,4 @@
-package bj05;
+package bj06;
 
 import java.util.Scanner;
 
